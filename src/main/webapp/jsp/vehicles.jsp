@@ -5,10 +5,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+   
     <title>PTFMS - Vehicles</title>
   <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/css/style.css">
 </head>
 <body>
+    
+    
     <div class="nav">
         <a href="jsp/dashboard.jsp">← Back to Dashboard</a>
     </div>
