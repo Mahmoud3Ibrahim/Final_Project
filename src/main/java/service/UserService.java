@@ -14,10 +14,12 @@ public class UserService {
     private UserDAO userDAO = new UserDAOImpl();
     
     /**
+     * 
      * Register new user
      * @param user user to register
      * @return true if successful
      */
+    
     public boolean registerUser(User user) {
         return userDAO.registerUser(user);
     }

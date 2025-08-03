@@ -16,6 +16,8 @@ public class FuelService {
     private FuelUsageDAO fuelDAO = new FuelUsageDAOImpl();
     
     /**
+     * 
+     * 
      * Add fuel usage
      * @param fuelUsage fuel usage to add
      * @return true if successful

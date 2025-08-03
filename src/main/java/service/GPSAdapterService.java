@@ -46,6 +46,7 @@ public class GPSAdapterService {
             System.out.println("Failed to save GPS location for Vehicle " + vehicleId);
         }
         
+        
         return success;
     }
 }

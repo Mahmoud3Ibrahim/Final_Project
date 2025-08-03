@@ -20,6 +20,7 @@ public class ReportService {
      * @param report report to add
      * @return true if successful
      */
+    
     public boolean addReport(Report report) {
         return reportDAO.addReport(report);
     }
