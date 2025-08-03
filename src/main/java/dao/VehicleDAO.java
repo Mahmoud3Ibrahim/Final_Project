@@ -14,8 +14,13 @@ public interface VehicleDAO {
      * Add new vehicle
      * @param vehicle vehicle to add
      * @return true if successful
-     */
+    
+    
+    */
     boolean addVehicle(Vehicle vehicle);
+    
+    
+    
     
     /**
      * Get all vehicles
