@@ -38,6 +38,8 @@ public class FuelServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) 
             throws ServletException, IOException {
         
+        
+        
         int vehicleId = Integer.parseInt(request.getParameter("vehicleId"));
         double amount = Double.parseDouble(request.getParameter("amount"));
         String date = request.getParameter("date");
