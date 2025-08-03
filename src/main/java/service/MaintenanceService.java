@@ -93,7 +93,6 @@ public class MaintenanceService {
                 System.out.println("URGENT: This maintenance is overdue and needs immediate attention!");
             }
         }
-        
         /**
          * 
          * Notify brake observer only for brake-related maintenance

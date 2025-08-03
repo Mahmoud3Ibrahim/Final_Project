@@ -17,7 +17,7 @@ public class Report {
      */
     public Report() {
     }
-    
+  
     /**
      * Constructor with parameters
      * @param reportType report type
