@@ -12,7 +12,6 @@ public class MaintenanceLog {
     private String partName;
     private String status;
     private String date;
-    
     /**
      * Default constructor
      */

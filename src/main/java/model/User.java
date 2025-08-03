@@ -18,7 +18,6 @@ public class User {
      */
     public User() {
     }
-    
     /**
      * Constructor with all parameters
      * @param name user's full name

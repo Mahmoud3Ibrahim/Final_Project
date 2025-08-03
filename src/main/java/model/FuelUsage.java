@@ -5,13 +5,12 @@ package com.ptfms.final_project.model;
  * @author Tianxin Gu
  * @author Mahmoud Ibrahim
  */
-public class FuelUsage {
-    
+public class FuelUsage {  
     private int usageId;
     private int vehicleId;
     private double amount;
     private String date;
-    
+   
     /**
      * Default constructor
      */
