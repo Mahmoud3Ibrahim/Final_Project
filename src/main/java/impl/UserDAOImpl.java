@@ -14,7 +14,11 @@ import java.sql.SQLException;
  * @author Tianxin Gu
  * @author Mahmoud Ibrahim
  */
+
+
 public class UserDAOImpl implements UserDAO {
+
+
     
     /**
      * Register a new user in the database
@@ -22,6 +26,7 @@ public class UserDAOImpl implements UserDAO {
      * @return true if successful, false if failed
      */
     @Override
+
     public boolean registerUser(User user) {
         String sql = "INSERT INTO users (name, email, password, role) VALUES (?, ?, ?, ?)";
         
