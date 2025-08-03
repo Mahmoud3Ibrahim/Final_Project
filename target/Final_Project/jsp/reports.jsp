@@ -43,6 +43,9 @@
         <a href="jsp/dashboard.jsp">← Back to Dashboard</a>
     </div>
     
+    
+    
+    
     <h1>System Reports</h1>
     
     <!-- Quick Statistics -->
@@ -64,6 +67,8 @@
             <div>Maintenance Logs</div>
         </div>
     </div>
+            
+            
     
     <!-- Vehicle Report -->
     <div class="report-section">

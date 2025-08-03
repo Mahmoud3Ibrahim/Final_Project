@@ -12,7 +12,11 @@
         <a href="dashboard.jsp">← Back to Dashboard</a>
     </div>
     
+    
+    
     <h1>GPS Tracking</h1>
+    
+    
     
     <!-- Manual GPS Location Form -->
     <h2>Add GPS Location (Manual Entry)</h2>
@@ -36,6 +40,8 @@
         
         <button type="submit">Add Manual Location</button>
     </form>
+    
+    
     
     <hr>
     
