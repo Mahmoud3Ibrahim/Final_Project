@@ -7,6 +7,8 @@ package com.ptfms.final_project.model;
  */
 public class Report {
     
+    
+    
     private int reportId;
     private String reportType;
     private String reportTitle;
