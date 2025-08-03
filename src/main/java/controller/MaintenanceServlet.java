@@ -19,6 +19,8 @@ public class MaintenanceServlet extends HttpServlet {
     
     private MaintenanceService maintenanceService = new MaintenanceService();
     
+    
+    
     /**
      * Handle GET request - show maintenance page
      */
