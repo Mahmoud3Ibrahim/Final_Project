@@ -10,6 +10,7 @@ import java.util.List;
  */
 public interface LocationDAO {
     
+    
     /**
      * Add location
      * @param location location to add

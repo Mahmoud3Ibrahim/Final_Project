@@ -10,6 +10,7 @@ import java.util.List;
  */
 public interface MaintenanceDAO {
     
+    
     /**
      * Add maintenance log
      * @param log maintenance log to add

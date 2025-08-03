@@ -3,6 +3,7 @@ package com.ptfms.final_project.dao;
 import com.ptfms.final_project.model.FuelUsage;
 import java.util.List;
 
+
 /**
  * FuelUsage DAO Interface - SIMPLE VERSION
  * @author Tianxin Gu

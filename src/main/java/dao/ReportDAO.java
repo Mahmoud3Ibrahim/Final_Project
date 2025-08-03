@@ -9,6 +9,7 @@ import java.util.List;
  * @author Mahmoud Ibrahim
  */
 public interface ReportDAO {
+   
     
     /**
      * Add report

@@ -19,8 +19,7 @@ public interface VehicleDAO {
     */
     boolean addVehicle(Vehicle vehicle);
     
-    
-    
+   
     
     /**
      * Get all vehicles
