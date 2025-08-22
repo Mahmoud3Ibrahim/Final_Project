@@ -24,7 +24,6 @@ public interface VehicleDAO {
     List<Vehicle> getAllVehicles();
     
     /**
-     * Find vehicle by ID
      * @param vehicleId vehicle ID
      * @return vehicle object
      */
